@@ -10,10 +10,11 @@ In addition to emotional comfort, Emobot also acts as a helpful assistant — re
 
 [👉 Visit the Live Webpage](https://statuesque-starship-1d285f.netlify.app/)
 
-![preview](images/screenshot.png)
+
 
 
 🌟 Features
+
 🧸 Emotional Support
 
 Cute animations and interactive reactions
