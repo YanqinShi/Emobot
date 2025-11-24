@@ -9,9 +9,7 @@ In addition to emotional comfort, Emobot also acts as a helpful assistant — re
 # 🐾 Emobot — Virtual Desktop Pet
 
 [👉 Visit the Live Webpage](https://statuesque-starship-1d285f.netlify.app/)
-![Poster](images/poster.png)
-
-
+![Poster](poster.png)
 
 
 🌟 Features
@@ -40,12 +38,4 @@ Simple to use
 
 Customizable and extendable
 
-![ui](images/screenshot.png)
-# clone the repo
-git clone https://github.com/yourname/emobot.git
 
-# install dependencies
-npm install
-
-# run the app
-npm start
