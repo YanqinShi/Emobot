@@ -9,6 +9,7 @@ In addition to emotional comfort, Emobot also acts as a helpful assistant — re
 # 🐾 Emobot — Virtual Desktop Pet
 
 [👉 Visit the Live Webpage](https://statuesque-starship-1d285f.netlify.app/)
+![Poster](images/poster.png)
 
 
 
