@@ -87,16 +87,20 @@ o	One-Click Scan: Click the blue "Start Scan" button. The system will automatica
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 Usage Tips & Best Practices
 To ensure the best possible presentation experience, please follow these tips:
+
 ✅ Tip 1: Internet Connection (AI Chat)
 •	Instruction: The Emotional Chat feature relies on the ChatGPT API for real-time responses.
 •	Note: Please do not disconnect from the internet while chatting; otherwise, the pet will not be able to provide intelligent replies.
+
 ✅ Tip 2: Browser Compatibility
 •	Instruction: For the smoothest animation performance (60 FPS), we recommend using Google Chrome or Microsoft Edge.
 •	Note: Safari may render the "Glassmorphism" (background blur) visual style slightly differently, though all functionality remains perfect.
+
 ✅ Tip 3: Audio Settings
 •	Instruction: The Mini-Games and Pet Interactions include sound effects.
 •	Recommendation: Please unmute your device to fully experience the immersive sound design (e.g., coin collection sounds, chat notifications).
 
 Contact Support
+
 If you have any questions regarding the design philosophy or technical implementation, please refer to the "Help" section within the app or contact Group 6 directly.
 Enjoy your time with PetPal!
