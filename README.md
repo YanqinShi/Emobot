@@ -84,8 +84,8 @@ o	One-Click Scan: Click the blue "Start Scan" button. The system will automatica
 🌏 E. Community Plaza
 •	Access: Click the "Join the Plaza!" button.
 •	Function: This is a global chat room where you can see other users' pets, share your current mood status, and find study buddies in real-time.
-________________________________________
-4. Usage Tips & Best Practices
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Usage Tips & Best Practices
 To ensure the best possible presentation experience, please follow these tips:
 ✅ Tip 1: Internet Connection (AI Chat)
 •	Instruction: The Emotional Chat feature relies on the ChatGPT API for real-time responses.
@@ -97,6 +97,6 @@ To ensure the best possible presentation experience, please follow these tips:
 •	Instruction: The Mini-Games and Pet Interactions include sound effects.
 •	Recommendation: Please unmute your device to fully experience the immersive sound design (e.g., coin collection sounds, chat notifications).
 
-5. Contact Support
+Contact Support
 If you have any questions regarding the design philosophy or technical implementation, please refer to the "Help" section within the app or contact Group 6 directly.
 Enjoy your time with PetPal!
